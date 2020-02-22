@@ -1,0 +1,19 @@
+body {
+	border: 5px green solid;
+}
+
+.header {
+	border: 5px red solid;
+}
+
+.header h2 {
+	border: 5px orange solid;
+}
+
+.post {
+	border: 5px blue solid;
+}
+
+.post h2 span {
+	border: 5px purple solid;
+}
