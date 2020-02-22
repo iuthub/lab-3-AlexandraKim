@@ -1,5 +1,12 @@
 body {
+	background-image: url("images/bg.jpeg");
+}
+
+.container {
 	border: 5px green solid;
+	background-color: white;
+	margin: 0 10%;
+	width: 80%; 
 }
 
 .header {
@@ -12,6 +19,9 @@ body {
 
 .post {
 	border: 5px blue solid;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin: 10px 0 0 0;
 }
 
 .post h2 span {
