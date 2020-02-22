@@ -3,23 +3,23 @@ body {
 }
 
 .container {
-	border: 5px green solid;
+	border: 10px white solid;
 	background-color: white;
 	margin: 0 10%;
 	width: 80%; 
 }
 
 .header {
-	border: 5px red solid;
 	text-align: right;
+	background-color: #A8F0F0;
 }
 
 .header h2 {
-	border: 5px orange solid;
+	font-size: 14pt;
 }
 
 .post {
-	border: 5px blue solid;
+	border: 4px #C2E9E9 solid;
 	background-color: #E8FBFB;
 	padding: 5px;
 	margin: 10px 0 0 0;
@@ -27,7 +27,7 @@ body {
 }
 
 .post h2 span {
-	border: 5px purple solid;
+	border-bottom: 2px #009097 dashed;
 }
 
 .post img {
