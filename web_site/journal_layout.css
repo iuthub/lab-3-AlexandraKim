@@ -11,6 +11,7 @@ body {
 
 .header {
 	border: 5px red solid;
+	text-align: right;
 }
 
 .header h2 {
@@ -22,8 +23,14 @@ body {
 	background-color: #E8FBFB;
 	padding: 5px;
 	margin: 10px 0 0 0;
+	overflow: hidden;
 }
 
 .post h2 span {
 	border: 5px purple solid;
 }
+
+.post img {
+	float: right;
+}
+
