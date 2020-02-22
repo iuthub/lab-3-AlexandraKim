@@ -34,3 +34,18 @@ body {
 	float: right;
 }
 
+.sidebar {
+	background-color: #A8F0F0;
+	border: 4px #009097 solid;
+	padding: 5x;
+	float: left;
+	margin: 10px 10px 0 0;
+}
+
+.main {
+	overflow: hidden;
+}
+
+body *:hover {
+	background-color: yellow;
+}
